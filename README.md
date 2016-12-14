@@ -1,3 +1,3 @@
 
 # Java openoffice2pdf
-  use jodconverter-3.0-beta  
+  use jodconverter-3.0-beta edition  
